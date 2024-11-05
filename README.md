@@ -1,4 +1,13 @@
-# 如何快速集成一个在线教室 v2
+# [ARCHIVED] 如何快速集成一个在线教室 v2
+
+**⚠️ This project is no longer maintained and has been archived.**  
+Please note that this repository is now in a read-only state and will not receive any further updates or support.
+
+We recommend using to the latest version of the **Agora Web SDK**: [Learn more](https://www.agora.io/en/products/video-call/) 
+
+For documentation and support, please visit the [Agora Documentation](https://docs.agora.io/en/).
+
+---
 
 一、现在市场上的在线教室都是怎么样的![ff.png](https://cdn.nlark.com/yuque/0/2019/png/102649/1554879028921-0f212185-e4b6-4e81-8b19-79dfe3f3ed91.png#align=left&display=inline&height=492&name=ff.png&originHeight=1188&originWidth=1800&size=384823&status=done&width=746)
 
